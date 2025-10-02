@@ -1,0 +1,37 @@
+{
+    "category": "OneAI Support",
+    "type": "Hardware",
+    "name": "OneAI Altera AGILEX 3 Support",
+    "id": "OneWare.AI.Altera_AGILEX3",
+    "description": "Altera AGILEX 3 support for OneAI Extension",
+    "iconUrl": "https://raw.githubusercontent.com/one-ware/OneWare.AI.Altera_AGILEX3/main/Icon.png",
+    "license": "MIT",
+    "tabs": [
+      {
+        "title": "Readme",
+        "contentUrl": "https://raw.githubusercontent.com/one-ware/OneWare.AI.Altera_AGILEX3/main/README.md"
+      },
+      {
+        "title": "License",
+        "contentUrl": "https://raw.githubusercontent.com/one-ware/OneWare.AI.Altera_AGILEX3/main/LICENSE"
+      }
+    ],
+    "links": [
+      {
+        "name": "Github",
+        "url": "https://github.com/one-ware/OneWare.AI.Altera_AGILEX3"
+      }
+    ],
+    "versions": [
+      {
+        "version": "1.0",
+        "targets": [
+          {
+            "target": "all",
+            "url": "https://github.com/one-ware/OneWare.AI.Altera_AGILEX3/releases/download/1.0/OneWare.AI.Altera_AGILEX3-1.0-all.zip"
+          }
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,53 @@
+{
+    "configurationName": "AGILEX_3",
+    "hardwareType": "FPGA",
+    "prioritizeSpeedOptimization": false,
+    "dspGroups": 6,
+    "prioritizeMemoryOptimization": true,
+    "memoryLimitUnit": "KB",
+    "optimizeForParallelExecution": true,
+    "quantizedCalculations": true,
+    "bitsPerValue": 8,
+    "types": [
+        {
+            "name": "A3C025",
+            "computeCapability": 20400,
+            "computeCapabilityUnit": "MOPS",
+            "dspBlocks": 136,
+            "memoryLimit": 192,
+            "memoryLimitUnit": "KB"
+        },
+        {
+            "name": "A3C050",
+            "computeCapability": 39000,
+            "computeCapabilityUnit": "MOPS",
+            "dspBlocks": 260,
+            "memoryLimit": 361,
+            "memoryLimitUnit": "KB"
+        },
+        {
+            "name": "A3C065",
+            "computeCapability": 52800,
+            "computeCapabilityUnit": "MOPS",
+            "dspBlocks": 352,
+            "memoryLimit": 492,
+            "memoryLimitUnit": "KB"
+        },
+        {
+            "name": "A3C100",
+            "computeCapability": 82800,
+            "computeCapabilityUnit": "MOPS",
+            "dspBlocks": 552,
+            "memoryLimit": 792,
+            "memoryLimitUnit": "KB"
+        },
+        {
+            "name": "A3C135",
+            "computeCapability": 110400,
+            "computeCapabilityUnit": "MOPS",
+            "dspBlocks": 736,
+            "memoryLimit": 1036,
+            "memoryLimitUnit": "KB"
+        }
+    ]
+}
