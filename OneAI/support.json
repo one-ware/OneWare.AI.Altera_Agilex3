@@ -1,5 +1,6 @@
 {
-    "configurationName": "AGILEX_3",
+    "configurationName": "ALTERA_AGILEX_3",
+    "displayName": "Altera™ Agilex™ 3",
     "hardwareType": "FPGA",
     "prioritizeSpeedOptimization": false,
     "dspGroups": 6,
